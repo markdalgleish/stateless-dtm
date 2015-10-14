@@ -21,7 +21,7 @@ track('event-name', {
 });
 ```
 
-By default, the data layer is exposed via a `window.analytics` object, and events are tracked by calling `window._satellite.track(eventName)`. These can be customised, but this feature is currently [undocumented](https://github.com/markdalgleish/stateless-dtm/src/index.js).
+By default, the data layer is exposed via a `window.analytics` object, and events are tracked by calling `window._satellite.track(eventName)`. These can be customised, but this feature is currently [undocumented](src/index.js).
 
 ## License
 
