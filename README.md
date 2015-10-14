@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/travis/markdalgleish/stateless-dtm/master.svg?style=flat-square)](http://travis-ci.org/markdalgleish/stateless-dtm)
+
 # stateless-dtm
 
 Purely stateless interface for Dynamic Tag Manager.
