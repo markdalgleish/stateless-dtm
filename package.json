@@ -1,6 +1,6 @@
 {
   "name": "stateless-dtm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Purely stateless interface for Dynamic Tag Manager",
   "main": "lib/index.js",
   "scripts": {
