@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/markdalgleish/stateless-dtm/master.svg?style=flat-square)](http://travis-ci.org/markdalgleish/stateless-dtm)
+[![Build Status](https://img.shields.io/travis/markdalgleish/stateless-dtm/master.svg?style=flat-square)](http://travis-ci.org/markdalgleish/stateless-dtm) [![npm](https://img.shields.io/npm/v/stateless-dtm.svg?style=flat-square)](https://www.npmjs.com/package/stateless-dtm)
 
 # stateless-dtm
 
