@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import createTracker, { track } from '../src';
+import track, { createTracker } from '../src';
 
 describe('Given: A browser environment with a DTM script present', () => {
 

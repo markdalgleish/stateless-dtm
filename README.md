@@ -13,7 +13,7 @@ To combat this, `stateless-dtm` conceals this global mutation behind a purely fu
 ## Usage
 
 ```js
-import { track } from 'stateless-dtm';
+import track from 'stateless-dtm';
 
 track('event-name', {
   some: 'data',

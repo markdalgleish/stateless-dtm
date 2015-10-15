@@ -16,6 +16,6 @@ const create = (config) => {
   };
 };
 
-export default create;
+export default create().track;
 
-export const track = create().track;
+export const createTracker = create;
